@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04 17:41:31 JST",
+  "updated_at": "2026-11-04 19:42:25 JST",
   "signals": [
     {
       "ticker": "6857.T",
@@ -216,6 +216,20 @@
       "fits_500k_budget": true,
       "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261102562792.pdf",
       "en_category": "業績上方修正 + 増配 / 記念配当 / 株主優待新設"
+    },
+    {
+      "pubdate": "2026-11-04 19:00:00",
+      "symbol": "6407.T",
+      "company_name": "ＣＫＤ",
+      "title": "自己株式の取得状況及び取得終了に関するお知らせ",
+      "catalyst_tags": "自社株買い / 消却",
+      "catalyst_score": 85,
+      "signal": "BULLISH_CATALYST",
+      "ref_price_jpy": null,
+      "unit_lot_100sh_jpy": null,
+      "fits_500k_budget": true,
+      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564747.pdf",
+      "en_category": "自社株買い / 消却"
     },
     {
       "pubdate": "2026-11-04 16:35:00",
