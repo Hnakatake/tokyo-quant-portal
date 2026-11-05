@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05 17:52:05 JST",
+  "updated_at": "2026-11-05 19:52:55 JST",
   "signals": [
     {
       "ticker": "6857.T",
@@ -204,6 +204,20 @@
   ],
   "tdnet_catalysts": [
     {
+      "pubdate": "2026-11-05 18:00:00",
+      "symbol": "8524.T",
+      "company_name": "北洋銀行",
+      "title": "（訂正・数値データ訂正）「業績予想の修正及び配当予想の修正（増配）に関するお知らせ」の一部訂正について",
+      "catalyst_tags": "業績上方修正, 増配 / 記念配当 / 株主優待新設",
+      "catalyst_score": 155,
+      "signal": "BULLISH_CATALYST",
+      "ref_price_jpy": null,
+      "unit_lot_100sh_jpy": null,
+      "fits_500k_budget": true,
+      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564096.pdf",
+      "en_category": "業績上方修正 + 増配 / 記念配当 / 株主優待新設"
+    },
+    {
       "pubdate": "2026-11-05 16:00:00",
       "symbol": "6413.T",
       "company_name": "理想科学",
@@ -344,76 +358,6 @@
       "en_category": "自社株買い / 消却"
     },
     {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "6875.T",
-      "company_name": "メガチップス",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "catalyst_tags": "自社株買い / 消却",
-      "catalyst_score": 85,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564849.pdf",
-      "en_category": "自社株買い / 消却"
-    },
-    {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "7259.T",
-      "company_name": "アイシン",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "catalyst_tags": "自社株買い / 消却",
-      "catalyst_score": 85,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105565013.pdf",
-      "en_category": "自社株買い / 消却"
-    },
-    {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "7278.T",
-      "company_name": "エクセディ",
-      "title": "自己株式の取得状況および取得終了に関するお知らせ",
-      "catalyst_tags": "自社株買い / 消却",
-      "catalyst_score": 85,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564797.pdf",
-      "en_category": "自社株買い / 消却"
-    },
-    {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "7460.T",
-      "company_name": "ヤギ",
-      "title": "自己株式の取得状況に関するお知らせ",
-      "catalyst_tags": "自社株買い / 消却",
-      "catalyst_score": 85,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564689.pdf",
-      "en_category": "自社株買い / 消却"
-    },
-    {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "7743.T",
-      "company_name": "シード",
-      "title": "自己株式の消却に関するお知らせ",
-      "catalyst_tags": "自社株買い / 消却",
-      "catalyst_score": 85,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261105565179.pdf",
-      "en_category": "自社株買い / 消却"
-    },
-    {
       "pubdate": "2026-11-05 16:30:00",
       "symbol": "3402.T",
       "company_name": "東レ",
@@ -537,20 +481,6 @@
       "unit_lot_100sh_jpy": null,
       "fits_500k_budget": true,
       "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104564755.pdf",
-      "en_category": "増配 / 記念配当 / 株主優待新設"
-    },
-    {
-      "pubdate": "2026-11-05 16:00:00",
-      "symbol": "7760.T",
-      "company_name": "ＩＭＶ",
-      "title": "業績予想及び配当予想の修正に関するお知らせ",
-      "catalyst_tags": "増配 / 記念配当 / 株主優待新設",
-      "catalyst_score": 75,
-      "signal": "BULLISH_CATALYST",
-      "ref_price_jpy": null,
-      "unit_lot_100sh_jpy": null,
-      "fits_500k_budget": true,
-      "document_url": "https://webapi.yanoshin.jp/rd.php?https://www.release.tdnet.info/inbs/140120261104563486.pdf",
       "en_category": "増配 / 記念配当 / 株主優待新設"
     },
     {
